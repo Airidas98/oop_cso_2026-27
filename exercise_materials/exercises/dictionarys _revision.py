@@ -9,3 +9,4 @@ if __name__ == "__main__":
     for i in range(len(students)):
         print(f"Students name: {students[i]['name']}")
         print(f"Students average_mark: {students[i]['average_mark']}")
+
