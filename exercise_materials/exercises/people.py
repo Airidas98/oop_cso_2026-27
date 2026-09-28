@@ -1,9 +1,9 @@
-class person:
+class Person:
 
-    def _int_(self):
+    def __init__(self):
         self.first_name="Airidas"
         self.second_name="Mickevicius"
         self.age= 21
         self.left_handed = False
 
-        
+
